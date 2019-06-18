@@ -1,0 +1,1 @@
+Use either the gui.py or nogui.py script. I personally reccomend the gui.py script.
