@@ -1,5 +1,5 @@
 import math
-
+#This is bad, use my other program for a better bad way to calculate pi
 """
      /¦
  h  / ¦ o
